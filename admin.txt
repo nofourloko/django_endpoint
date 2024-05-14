@@ -1,0 +1,5 @@
+admin
+admin
+pip install django
+pip install djangorestframework
+pip install pyjwt
